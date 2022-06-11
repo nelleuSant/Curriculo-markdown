@@ -4,8 +4,6 @@
 <a href="https://www.linkedin.com/in/suellen-santiago/"><img align="center" alt="Suellen-linkedin" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=25></a>
 <a href="https://github.com/nelleuSant"><img align="center" alt="Suellen-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=25></a>
 </div>
-<img align="center" alt="" src="https://blush.design/api/download?shareUri=yVGyUs67yzMruKYj&c=Backdrop_0%7Eb9eee9_Hair_0%7Eb58143_Skin_0%7Eeac7a8_Top_0%7Eff4c77&w=800&h=800&fm=png" height=200>
-
 # APRESENTAÇÃO
 
 > Sou estudante de administração de empresas pela UFRRJ, com habilidades nas mais diversas tecnologias. Anteriormente, criei vínculo empregatício com a Empresa Gerencial de Projetos Navais, como Técnica em mecânica, onde tive a oportunidade de me desenvolver profissionalmente e contribuir nas áreas técnica e administrativa do setor Naval. Possuo experiência na manipulação de planilhas e em montagem e manutenção de computadores. Tenho habilidades com Python, C e Java Script, assim como, noções de MySQL e NoSQL.
