@@ -1,4 +1,4 @@
-![](C:\Users\suell\Documents\BootcampSantander\Workspace\curriculo-markdown\img\capacurriculo.png)
+<img alt="" src="img\capacurriculo.png">
 
 <div style="display: inline_block" align="right">
 <a href="https://www.linkedin.com/in/suellen-santiago/"><img align="center" alt="Suellen-linkedin" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height=25></a>
